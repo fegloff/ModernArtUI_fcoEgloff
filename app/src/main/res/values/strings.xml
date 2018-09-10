@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ModernArtUI - Francisco Egloff</string>
+    <string name="menu_more">More Information</string>
+    <string name="menu_exit">Exit</string>
+    <string name="dialog_title">Inspired by the works of artists such as \n Piet Mondrian and Ben Nicholson</string>
+    <string name="dialog_subtitle">Click below to learn more!</string>
+    <string name="positive_button">Visit MOMA</string>
+    <string name="negative_button">Not Now</string>
+</resources>
